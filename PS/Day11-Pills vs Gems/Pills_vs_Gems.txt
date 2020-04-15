@@ -1,0 +1,76 @@
+15
+2 2
+bx
+xx
+2 2
+rb
+br
+2 2
+xx
+xx
+1 5
+xxbxx
+3 3
+xxx
+xrx
+xxx
+3 3
+xxx
+xbx
+xxx
+3 4
+xrbx
+xxxx
+xxxx
+2 2
+rb
+br
+7 7
+bxxrxxb
+xxxxxxx
+xxxxxxx
+rxxrxxr
+xxxxxxx
+xxxxxxx
+bxxrxxb
+9 3
+rxr
+rbx
+xbr
+xxx
+xxr
+xxx
+xxx
+rxb
+xbx
+2 7
+bxrxxxx
+xxxbxxx
+4 8
+xxxrxxrr
+xxxxxxxr
+rxxxxbxb
+xxxxbrxx
+8 4
+bxxr
+xrxx
+xxrb
+rbxx
+rxbx
+xxrb
+xxxx
+rxxb
+8 6
+bxxxxx
+bbrbxr
+xxxxxr
+rxxxxx
+bxxxbb
+xxbxxx
+rxxrrb
+rxxrxx
+4 8
+xxxbrxrx
+xxxxxrxr
+xrxxxxbx
+rxxxxxxx
